@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reverb: MyString
+  delay: MyString
+  tremolo: MyString
+  waveshape: MyString
+  envelope: MyString
+
+two:
+  reverb: MyString
+  delay: MyString
+  tremolo: MyString
+  waveshape: MyString
+  envelope: MyString
