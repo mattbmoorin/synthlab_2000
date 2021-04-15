@@ -222,3 +222,865 @@ Processing by PresetsController#index as */*
 Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.5ms | Allocations: 2503)
 
 
+Started GET "/presets" for ::1 at 2021-04-14 01:33:33 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.9ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 12ms (Views: 8.7ms | ActiveRecord: 0.9ms | Allocations: 2504)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 01:33:33 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 01:46:26 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.8ms | ActiveRecord: 1.2ms | Allocations: 2503)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 01:46:40 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.5ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 1.5ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 01:50:45 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.7ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.7ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 01:50:47 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (2.0ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 8ms (Views: 5.6ms | ActiveRecord: 2.0ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 01:50:48 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.6ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.6ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 02:48:54 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.9ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.9ms | Allocations: 2503)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 02:48:54 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 1.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 02:49:41 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (8.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 12ms (Views: 3.2ms | ActiveRecord: 8.2ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 02:49:41 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (4.5ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 9ms (Views: 3.9ms | ActiveRecord: 4.5ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 02:58:06 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.7ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 2.7ms | ActiveRecord: 0.7ms | Allocations: 2504)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 02:58:06 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.2ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 02:58:10 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 02:58:11 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:01:02 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (9.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 13ms (Views: 3.7ms | ActiveRecord: 9.2ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:01:02 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.0ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 1.0ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:01:50 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.6ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.6ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:01:50 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:02:09 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (7.5ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 12ms (Views: 4.0ms | ActiveRecord: 7.5ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:02:09 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (2.8ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 4.2ms | ActiveRecord: 2.8ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:03:02 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.8ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.8ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:03:02 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.8ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.8ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:06:57 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (2.1ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.1ms | ActiveRecord: 2.1ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:06:57 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 1.2ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:07:15 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.5ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.5ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:07:16 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.7ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.7ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:07:43 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.7ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 4.1ms | ActiveRecord: 1.7ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:07:43 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.8ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 2.6ms | ActiveRecord: 0.8ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:09:06 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 4.5ms | ActiveRecord: 1.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:09:06 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.7ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.7ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:47:48 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.0ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 1.0ms | Allocations: 2506)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:47:48 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.2ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:49:02 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:49:02 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.2ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:49:17 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (4.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 8ms (Views: 3.5ms | ActiveRecord: 4.4ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:49:17 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.4ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:50:13 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:50:13 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.7ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.7ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:51:28 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (15.9ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 20ms (Views: 3.8ms | ActiveRecord: 15.9ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:51:28 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:52:27 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (4.8ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 9ms (Views: 3.6ms | ActiveRecord: 4.8ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:52:27 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.9ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.9ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:55:13 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:55:13 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.3ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 03:57:17 -0500
+Processing by PresetsController#index as HTML
+  [1m[36mPreset Load (0.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.4ms | Allocations: 2443)
+
+
+Started GET "/favicon.ico" for ::1 at 2021-04-14 03:57:17 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (6.0.3.6) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.6) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.6) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.6) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.6) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.6) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.6) lib/rails/rack/logger.rb:26:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.6) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+rack-cors (1.1.1) lib/rack/cors.rb:100:in `call'
+railties (6.0.3.6) lib/rails/engine.rb:527:in `call'
+puma (4.3.7) lib/puma/configuration.rb:228:in `call'
+puma (4.3.7) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.7) lib/puma/server.rb:472:in `process_client'
+puma (4.3.7) lib/puma/server.rb:328:in `block in run'
+puma (4.3.7) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/presets" for ::1 at 2021-04-14 04:05:46 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.5ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.5ms | Allocations: 2502)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 04:07:39 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.2ms | Allocations: 2445)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 15:03:26 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (84.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 88ms (Views: 2.8ms | ActiveRecord: 84.3ms | Allocations: 2503)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 15:03:26 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.4ms | Allocations: 2445)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 15:04:31 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"234", "delay"=>"234", "tremolo"=>"234", "waveshape"=>"234", "envelope"=>"234"}}
+  [1m[35m (41.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (6.4ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "234"], ["delay", "234"], ["tremolo", "234"], ["waveshape", "234"], ["envelope", "234"], ["created_at", "2021-04-14 20:04:31.985290"], ["updated_at", "2021-04-14 20:04:31.985290"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (0.8ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 57ms (Views: 1.3ms | ActiveRecord: 48.4ms | Allocations: 2915)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 19:38:51 -0500
+  [1m[35m (2.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (31.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 54ms (Views: 12.1ms | ActiveRecord: 39.8ms | Allocations: 8713)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 19:38:51 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.3ms | Allocations: 2607)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 19:47:09 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 1.2ms | Allocations: 2677)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 19:47:09 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.4ms | Allocations: 2607)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 19:47:14 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"1", "delay"=>"1", "tremolo"=>"1", "waveshape"=>"1", "envelope"=>"1"}}
+  [1m[35m (2.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (5.3ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "1"], ["delay", "1"], ["tremolo", "1"], ["waveshape", "1"], ["envelope", "1"], ["created_at", "2021-04-15 00:47:14.189854"], ["updated_at", "2021-04-15 00:47:14.189854"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (0.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 13ms (Views: 0.7ms | ActiveRecord: 7.8ms | Allocations: 2932)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 19:48:48 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"0", "delay"=>"1", "tremolo"=>"0.5", "waveshape"=>"triangle", "envelope"=>"0.3"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.5ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "0"], ["delay", "1"], ["tremolo", "0.5"], ["waveshape", "triangle"], ["envelope", "0.3"], ["created_at", "2021-04-15 00:48:48.620846"], ["updated_at", "2021-04-15 00:48:48.620846"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (2.0ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 6ms (Views: 0.4ms | ActiveRecord: 2.6ms | Allocations: 2664)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 19:52:26 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (3.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 9ms (Views: 5.8ms | ActiveRecord: 3.4ms | Allocations: 2929)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 19:52:39 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"0", "delay"=>"0", "tremolo"=>"0", "waveshape"=>"sine", "envelope"=>"1"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.5ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "0"], ["delay", "0"], ["tremolo", "0"], ["waveshape", "sine"], ["envelope", "1"], ["created_at", "2021-04-15 00:52:39.792821"], ["updated_at", "2021-04-15 00:52:39.792821"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (2.0ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 7ms (Views: 0.4ms | ActiveRecord: 2.6ms | Allocations: 2648)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:09:20 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"0", "delay"=>"0", "tremolo"=>"0", "waveshape"=>"sine", "envelope"=>"1"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.6ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "0"], ["delay", "0"], ["tremolo", "0"], ["waveshape", "sine"], ["envelope", "1"], ["created_at", "2021-04-15 01:09:20.729195"], ["updated_at", "2021-04-15 01:09:20.729195"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (1.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 6ms (Views: 0.5ms | ActiveRecord: 2.7ms | Allocations: 2675)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:09:26 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"0", "delay"=>"0", "tremolo"=>"0", "waveshape"=>"sine", "envelope"=>"1"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.4ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "0"], ["delay", "0"], ["tremolo", "0"], ["waveshape", "sine"], ["envelope", "1"], ["created_at", "2021-04-15 01:09:26.540531"], ["updated_at", "2021-04-15 01:09:26.540531"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (2.0ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 7ms (Views: 0.6ms | ActiveRecord: 2.5ms | Allocations: 2646)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 20:16:18 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.0ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 1.0ms | Allocations: 3470)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 20:16:18 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.3ms | Allocations: 3412)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:16:42 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"0.05", "delay"=>"0.23", "tremolo"=>"1", "waveshape"=>"sine", "envelope"=>"0.7"}}
+  [1m[35m (0.4ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (1.0ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "0.05"], ["delay", "0.23"], ["tremolo", "1"], ["waveshape", "sine"], ["envelope", "0.7"], ["created_at", "2021-04-15 01:16:42.285973"], ["updated_at", "2021-04-15 01:16:42.285973"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (1.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 7ms (Views: 0.4ms | ActiveRecord: 3.2ms | Allocations: 2648)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:17:02 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"0.05", "delay"=>"0.23", "tremolo"=>"1", "waveshape"=>"sine", "envelope"=>"0.7"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.4ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "0.05"], ["delay", "0.23"], ["tremolo", "1"], ["waveshape", "sine"], ["envelope", "0.7"], ["created_at", "2021-04-15 01:17:02.039656"], ["updated_at", "2021-04-15 01:17:02.039656"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (0.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 4ms (Views: 0.4ms | ActiveRecord: 0.7ms | Allocations: 2647)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 20:17:04 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.3ms | Allocations: 3736)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 20:17:16 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.3ms | Allocations: 3734)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 20:18:06 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.9ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 4.4ms | ActiveRecord: 0.9ms | Allocations: 3736)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 20:18:06 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (2.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 3.4ms | ActiveRecord: 2.3ms | Allocations: 3734)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:18:14 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"5", "delay"=>"5", "tremolo"=>"5", "waveshape"=>"square", "envelope"=>"3"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.4ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "5"], ["delay", "5"], ["tremolo", "5"], ["waveshape", "square"], ["envelope", "3"], ["created_at", "2021-04-15 01:18:14.707237"], ["updated_at", "2021-04-15 01:18:14.707237"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (2.0ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 19ms (Views: 0.4ms | ActiveRecord: 2.5ms | Allocations: 2650)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 20:18:42 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (5.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 13ms (Views: 6.9ms | ActiveRecord: 5.4ms | Allocations: 3895)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 20:18:42 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 1.2ms | Allocations: 3895)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:18:45 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"1", "delay"=>"1", "tremolo"=>"1", "waveshape"=>"1", "envelope"=>"1"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.3ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "1"], ["delay", "1"], ["tremolo", "1"], ["waveshape", "1"], ["envelope", "1"], ["created_at", "2021-04-15 01:18:45.506198"], ["updated_at", "2021-04-15 01:18:45.506198"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (1.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 6ms (Views: 0.6ms | ActiveRecord: 2.3ms | Allocations: 2648)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:18:46 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"1", "delay"=>"1", "tremolo"=>"1", "waveshape"=>"1", "envelope"=>"1"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.3ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "1"], ["delay", "1"], ["tremolo", "1"], ["waveshape", "1"], ["envelope", "1"], ["created_at", "2021-04-15 01:18:46.614520"], ["updated_at", "2021-04-15 01:18:46.614520"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (1.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 5ms (Views: 0.4ms | ActiveRecord: 2.3ms | Allocations: 2647)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:18:46 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"1", "delay"=>"1", "tremolo"=>"1", "waveshape"=>"1", "envelope"=>"1"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.3ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "1"], ["delay", "1"], ["tremolo", "1"], ["waveshape", "1"], ["envelope", "1"], ["created_at", "2021-04-15 01:18:46.773624"], ["updated_at", "2021-04-15 01:18:46.773624"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (1.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 6ms (Views: 0.7ms | ActiveRecord: 2.4ms | Allocations: 2646)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:18:46 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"1", "delay"=>"1", "tremolo"=>"1", "waveshape"=>"1", "envelope"=>"1"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.3ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "1"], ["delay", "1"], ["tremolo", "1"], ["waveshape", "1"], ["envelope", "1"], ["created_at", "2021-04-15 01:18:46.919440"], ["updated_at", "2021-04-15 01:18:46.919440"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (2.0ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 6ms (Views: 0.4ms | ActiveRecord: 2.4ms | Allocations: 2646)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:18:47 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"1", "delay"=>"1", "tremolo"=>"1", "waveshape"=>"1", "envelope"=>"1"}}
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.3ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "1"], ["delay", "1"], ["tremolo", "1"], ["waveshape", "1"], ["envelope", "1"], ["created_at", "2021-04-15 01:18:47.066279"], ["updated_at", "2021-04-15 01:18:47.066279"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (1.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 6ms (Views: 0.4ms | ActiveRecord: 2.4ms | Allocations: 2646)
+
+
+Started POST "/presets" for ::1 at 2021-04-14 20:18:47 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"1", "delay"=>"1", "tremolo"=>"1", "waveshape"=>"1", "envelope"=>"1"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.3ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "1"], ["delay", "1"], ["tremolo", "1"], ["waveshape", "1"], ["envelope", "1"], ["created_at", "2021-04-15 01:18:47.212330"], ["updated_at", "2021-04-15 01:18:47.212330"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (1.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 6ms (Views: 0.4ms | ActiveRecord: 2.4ms | Allocations: 2646)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 23:31:46 -0500
+Processing by PresetsController#index as HTML
+  [1m[36mPreset Load (0.6ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.6ms | Allocations: 4917)
+
+
+Started GET "/favicon.ico" for ::1 at 2021-04-14 23:31:47 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (6.0.3.6) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.6) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.6) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.6) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.6) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.6) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.6) lib/rails/rack/logger.rb:26:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.6) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.6) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+rack-cors (1.1.1) lib/rack/cors.rb:100:in `call'
+railties (6.0.3.6) lib/rails/engine.rb:527:in `call'
+puma (4.3.7) lib/puma/configuration.rb:228:in `call'
+puma (4.3.7) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.7) lib/puma/server.rb:472:in `process_client'
+puma (4.3.7) lib/puma/server.rb:328:in `block in run'
+puma (4.3.7) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/presets" for ::1 at 2021-04-14 23:34:26 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 11ms (Views: 8.6ms | ActiveRecord: 1.4ms | Allocations: 4863)
+
+
+Started GET "/presets" for ::1 at 2021-04-14 23:34:26 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.3ms | Allocations: 4861)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 01:04:26 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.1ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 1.1ms | Allocations: 4919)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 01:04:26 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.3ms | Allocations: 4861)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 01:34:56 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.6ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.6ms | Allocations: 4919)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 01:34:56 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.3ms | Allocations: 4861)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 01:57:45 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.1ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 4.6ms | ActiveRecord: 1.1ms | Allocations: 4921)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 01:57:45 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.3ms | Allocations: 4861)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 01:58:03 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (8.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 16ms (Views: 7.7ms | ActiveRecord: 8.2ms | Allocations: 4861)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 01:58:03 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (3.1ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 9ms (Views: 5.9ms | ActiveRecord: 3.1ms | Allocations: 4861)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 01:58:32 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.6ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 4.7ms | ActiveRecord: 0.6ms | Allocations: 4861)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 01:58:32 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 19ms (Views: 18.2ms | ActiveRecord: 0.4ms | Allocations: 4864)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 02:00:20 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.4ms | Allocations: 4861)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 02:00:20 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.9ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.9ms | Allocations: 4861)
+
+
+Started POST "/presets" for ::1 at 2021-04-15 02:00:39 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"1", "delay"=>"1", "tremolo"=>"1", "waveshape"=>"1", "envelope"=>"1"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.6ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "1"], ["delay", "1"], ["tremolo", "1"], ["waveshape", "1"], ["envelope", "1"], ["created_at", "2021-04-15 07:00:39.003828"], ["updated_at", "2021-04-15 07:00:39.003828"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (40.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 45ms (Views: 0.8ms | ActiveRecord: 41.0ms | Allocations: 2647)
+
+
+Started POST "/presets" for ::1 at 2021-04-15 02:00:45 -0500
+Processing by PresetsController#create as JSON
+  Parameters: {"preset"=>{"reverb"=>"test", "delay"=>"1", "tremolo"=>"1", "waveshape"=>"1", "envelope"=>"1"}}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[36mPreset Create (0.2ms)[0m  [1m[32mINSERT INTO "presets" ("reverb", "delay", "tremolo", "waveshape", "envelope", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["reverb", "test"], ["delay", "1"], ["tremolo", "1"], ["waveshape", "1"], ["envelope", "1"], ["created_at", "2021-04-15 07:00:45.785016"], ["updated_at", "2021-04-15 07:00:45.785016"]]
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+  [1m[35m (40.5ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/presets_controller.rb:20:in `create'
+Completed 201 Created in 45ms (Views: 0.6ms | ActiveRecord: 40.9ms | Allocations: 2647)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 02:01:02 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (6.2ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 13ms (Views: 6.5ms | ActiveRecord: 6.2ms | Allocations: 5183)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 02:01:02 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 5.3ms | ActiveRecord: 1.4ms | Allocations: 5183)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 02:01:22 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (3.1ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 12ms (Views: 8.5ms | ActiveRecord: 3.1ms | Allocations: 5183)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 02:01:22 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (1.5ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 8ms (Views: 6.0ms | ActiveRecord: 1.5ms | Allocations: 5183)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 02:03:37 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.4ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 12ms (Views: 11.6ms | ActiveRecord: 0.4ms | Allocations: 5183)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 02:03:37 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.7ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.7ms | Allocations: 5183)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 02:38:41 -0500
+  [1m[35m (41.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.6ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 21ms (Views: 13.1ms | ActiveRecord: 6.0ms | Allocations: 11289)
+
+
+Started GET "/presets" for ::1 at 2021-04-15 02:38:42 -0500
+Processing by PresetsController#index as */*
+  [1m[36mPreset Load (0.3ms)[0m  [1m[34mSELECT "presets".* FROM "presets"[0m
+  ↳ app/controllers/presets_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.3ms | Allocations: 5183)
+
+

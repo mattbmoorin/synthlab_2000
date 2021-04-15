@@ -16,6 +16,11 @@ const presetReducer = (state = initialState, action) => {
         loading: false,
         presets: action.presets,
       };
+    case 'ADD_PRESET':
+      return {
+        ...state,
+        presets: [...state.presets, action.preset],
+      };
     default:
       return state;
   }
