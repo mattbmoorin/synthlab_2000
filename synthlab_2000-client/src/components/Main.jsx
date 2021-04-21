@@ -1,8 +1,12 @@
+import Controller from './Controller';
+
 const Main = () => {
   return (
-    <div className="App">
-      <h1>This is the landing page</h1>
-    </div>
+    <>
+      <h2 className="App">
+        SYNTHLAB 2000 - SEQUENCER WITH PROGRAMMABLE VOICES/FX
+      </h2>
+    </>
   );
 };
 

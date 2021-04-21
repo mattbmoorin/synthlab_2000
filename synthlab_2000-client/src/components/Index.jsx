@@ -1,5 +1,4 @@
 import { connect } from 'react-redux';
-
 import Preset from './Preset';
 
 const index = (props) => {
@@ -13,7 +12,12 @@ const index = (props) => {
       envelope={preset.envelope}
     />
   ));
-  return <div>{presets}</div>;
+  return (
+    <div className="App">
+      {presets}
+      <br />
+    </div>
+  );
 };
 
 const mapStateToProps = (state) => {

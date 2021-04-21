@@ -1,4 +1,7 @@
 import React, { useState, useEffect } from 'react';
+import { getPresets } from './actions';
+import { connect } from 'react-redux';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 import './App.css';
 
@@ -9,10 +12,6 @@ import Err from './components/Err';
 import Info from './components/Info';
 import Index from './components/Index';
 import Form from './components/Form';
-
-import { getPresets } from './actions';
-import { connect } from 'react-redux';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 function App(props) {
   useEffect(() => {
