@@ -17,34 +17,30 @@ const Nav = () => {
   return (
     <div>
       <Container>
-        <JumboSizer>
-          <Jumbotron>
-            {!show && (
-              <Button onClick={() => changeShow(true)}>Show Navigation</Button>
-            )}
-            <Toast show={show} onClose={() => changeShow(false)}>
-              <Toast.Header>
-                <strong>Navigation:</strong>
-              </Toast.Header>
-              <Toast.Body>
-                <ul>
-                  <Link to="/">HOME</Link>
-                  <br />
-                  <Link to="/info">HELP</Link>
-                  <br />
-                  <Link to="/index">FX PRESET BANK</Link>
-                  <br />
-                  <Link to="/index/new">FX EDIT/SAVE PRESET</Link>
-                  <br />
-                </ul>
-              </Toast.Body>
-            </Toast>
-          </Jumbotron>
-        </JumboSizer>
+        {!show && (
+          <Button onClick={() => changeShow(true)}>Show Navigation</Button>
+        )}
+        <Toast show={show} onClose={() => changeShow(false)}>
+          <Toast.Header>
+            <strong>Navigation:</strong>
+          </Toast.Header>
+          <Toast.Body>
+            <ul>
+              <Link to="/">HOME</Link>
+              <br />
+              <Link to="/info">HELP</Link>
+              <br />
+              <Link to="/index">FX PRESET BANK</Link>
+              <br />
+              <Link to="/index/new">FX EDIT/SAVE PRESET</Link>
+              <br />
+            </ul>
+          </Toast.Body>
+        </Toast>
+        <FloatRightStyle>
+          <Controller />
+        </FloatRightStyle>
       </Container>
-      <FloatRightStyle>
-        <Controller />
-      </FloatRightStyle>
     </div>
   );
 };

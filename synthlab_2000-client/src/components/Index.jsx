@@ -12,8 +12,10 @@ const index = (props) => {
       envelope={preset.envelope}
     />
   ));
+
   return (
     <div className="App">
+      <h2>PRESET BANK</h2>
       {presets}
       <br />
     </div>

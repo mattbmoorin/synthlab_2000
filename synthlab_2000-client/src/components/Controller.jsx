@@ -1,11 +1,13 @@
 import React, { useState } from 'react';
 
 import '../App.css';
-
-import NoteButton from './NoteButton';
-import * as Tone from 'tone';
 import classNames from 'classnames';
+import FormColor from './FormColor';
 import FloatRightStyle from './FloatRightStyle';
+import NoteButton from './NoteButton';
+import Button from 'react-bootstrap/Button';
+
+import * as Tone from 'tone';
 
 const GridComponent = () => {
   const controllerGrid = [];
@@ -31,7 +33,7 @@ const Controller = ({ ...rest }) => {
     [delaySetting, setDelaySetting] = useState(0.5);
 
   const synthesizer = new Tone.PolySynth();
-  const delay = new Tone.FeedbackDelay({ delaySetting }, 0.5);
+  const delay = new Tone.FeedbackDelay({ delaySetting }, 0.5).toDestination();
   const reverb = new Tone.Reverb({ reverbSetting });
 
   const setReverb = (e) => {
@@ -42,7 +44,8 @@ const Controller = ({ ...rest }) => {
     setDelaySetting(e.target.value);
   };
 
-  synthesizer.connect(reverb).connect(delay).toDestination();
+  synthesizer.connect(reverb);
+  synthesizer.connect(delay);
 
   const handleNoteSelected = (selectedColumn, selectedNote) => {
     let gridWithSelectedNotes = controllerGrid.map(
@@ -136,11 +139,7 @@ const Controller = ({ ...rest }) => {
           </div>
         ))}
       </div>
-      <FloatRightStyle>
-        <button className="play-button" onClick={() => playSequence()}>
-          {soundIsPlaying ? '[]' : '|>'}
-        </button>
-        <br />
+      <FormColor>
         <form id="fx-form">
           <label>
             Reverb:
@@ -161,6 +160,13 @@ const Controller = ({ ...rest }) => {
             />
           </label>
         </form>
+      </FormColor>
+
+      <FloatRightStyle>
+        <Button className="play-button" onClick={() => playSequence()}>
+          {soundIsPlaying ? '[]' : '|>'}
+        </Button>
+        <br />
       </FloatRightStyle>
     </>
   );

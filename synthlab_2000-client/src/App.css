@@ -4,11 +4,30 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100%;
+  align-items: right;
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+  position: absolute;
+  right: 150px;
+  width: 200px;
+  height: 120px;
 }
+
+.footer {
+  font-family: sans-serif;
+  color: aqua;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding-top: 500px;
+  position: fixed;
+  left: 150px;
+  width: 200px;
+  height: 120px;
+}
+
 .note-wrapper {
   height: 100%;
   display: flex;

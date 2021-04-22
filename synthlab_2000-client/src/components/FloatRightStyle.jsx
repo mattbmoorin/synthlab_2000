@@ -1,8 +1,9 @@
 import styled from 'styled-components';
 
 const FloatRightStyle = styled.div`
-  float: right;
-  margin-right: 456px;
+  float: left;
+  margin-left: 300px;
+  position: fixed;
 `;
 
 export default FloatRightStyle;
